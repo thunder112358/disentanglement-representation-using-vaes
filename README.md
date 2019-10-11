@@ -102,6 +102,15 @@ https://github.com/Alfo5123/Variational-Sparse-Coding
 12. On the Fairness of Disentangled Representations
 https://arxiv.org/pdf/1905.13662.pdf
 
+13. Spatial Broadcast Decoder: A Simple Architecture for
+Learning Disentangled Representations in VAEs
+
+https://arxiv.org/pdf/1901.07017.pdf (paper)
+https://github.com/dfdazac/vaesbd (code)
+https://dfdazac.github.io/01-sbd.html (blog)
+
+
+
 Disentangling Factors of Variation Using Few Labels
 https://arxiv.org/pdf/1905.01258.pdf
 
