@@ -82,39 +82,39 @@
 
 
 8. Bayes-Factor-VAE
-https://arxiv.org/pdf/1909.02820.pdf
+* https://arxiv.org/pdf/1909.02820.pdf
 
 9. Relevance Factor VAE: Learning and Identifying Disentangled Factors
-https://arxiv.org/pdf/1902.01568.pdf
+* https://arxiv.org/pdf/1902.01568.pdf
 
 10. Symmetry-Based Disentangled Representation Learning requires Interaction with Environments
-https://arxiv.org/abs/1904.00243
-https://github.com/Caselles/NeurIPS19-SBDRL
+* https://arxiv.org/abs/1904.00243
+* https://github.com/Caselles/NeurIPS19-SBDRL
 
 
 11. Towards Disentangled Representations via
 Variational Sparse Coding
-https://hal.archives-ouvertes.fr/hal-02266937/file/LXAI%20at%20ICML%20-%20Oral%20Presentation.pdf
-https://github.com/Caselles/NeurIPS19-SBDRL
-https://drive.google.com/drive/folders/1sEmiD2_dOwTJVydIsiZ1bsxdtbaBQT_Z
-https://github.com/Alfo5123/Variational-Sparse-Coding
+* https://hal.archives-ouvertes.fr/hal-02266937/file/LXAI%20at%20ICML%20-%20Oral%20Presentation.pdf
+* https://github.com/Caselles/NeurIPS19-SBDRL
+* https://drive.google.com/drive/folders/1sEmiD2_dOwTJVydIsiZ1bsxdtbaBQT_Z
+* https://github.com/Alfo5123/Variational-Sparse-Coding
 
 12. On the Fairness of Disentangled Representations
-https://arxiv.org/pdf/1905.13662.pdf
+* https://arxiv.org/pdf/1905.13662.pdf
 
 13. Spatial Broadcast Decoder: A Simple Architecture for
 Learning Disentangled Representations in VAEs
 
-https://arxiv.org/pdf/1901.07017.pdf (paper)
-https://github.com/dfdazac/vaesbd (code)
-https://dfdazac.github.io/01-sbd.html (blog)
+* https://arxiv.org/pdf/1901.07017.pdf (paper)
+* https://github.com/dfdazac/vaesbd (code)
+* https://dfdazac.github.io/01-sbd.html (blog)
 
 
 
 Disentangling Factors of Variation Using Few Labels
-https://arxiv.org/pdf/1905.01258.pdf
+* https://arxiv.org/pdf/1905.01258.pdf
 
 Are Disentangled Representations Helpful for Abstract Visual Reasoning?
-https://arxiv.org/pdf/1905.12506.pdf
+* https://arxiv.org/pdf/1905.12506.pdf
 
 beta-vae 
