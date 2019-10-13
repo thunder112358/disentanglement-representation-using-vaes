@@ -118,3 +118,10 @@ Are Disentangled Representations Helpful for Abstract Visual Reasoning?
 * https://arxiv.org/pdf/1905.12506.pdf
 
 beta-vae 
+
+
+
+Flexibly Fair Representation Learning by Disentanglement
+* http://proceedings.mlr.press/v97/creager19a/creager19a.pdf (workshop)
+* https://arxiv.org/pdf/1906.02589.pdf (paper)
+* https://icml.cc/media/Slides/icml/2019/seasideball(13-11-00)-13-11-25-4853-flexibly_fair_r.pdf (slides) 
